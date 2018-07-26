@@ -1,7 +1,10 @@
 # Logistic Regresssion
 Implementation of logistic regression on a single node nn. The model is trained on cat images and predicts if a given image is  a cat image or not. The accuracy is about 60-65%.
 <br/>
-Run Program: python3 logistic_regression.py
+<br/>
+Run the program by typing following command in the terminal: 
+<br/>
+<p>python3 logistic_regression.py</p>
 <br/>
 <br/>
 Following graph shows the plot of loss function against the iterations of step 50:
