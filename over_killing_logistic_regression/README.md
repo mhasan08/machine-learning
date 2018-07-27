@@ -4,7 +4,9 @@ Implementation of logistic regression on a single node nn. The model is trained 
 <br/>
 Run the program by typing following command in the terminal: 
 <br/>
-<p>python3 logistic_regression.py</p>
+```
+python3 logistic_regression.py
+```
 <br/>
 <br/>
 Following graph shows the plot of loss function against the iterations of step 50:

@@ -1,22 +1,23 @@
 # KMeans
-Implementation of kmeans on OpenCV and SKlearn.
+Implementation of kmeans on OpenCV and Sklearn.
 <br/>
 <br/>
 Run the program by typing following command in the terminal: 
 <br/>
-<p>python kmeans.py</p>
+```
+python kmeans.py
+python sk_kmeans.py
+```
 <br/>
-<p>python sk_kmeans.py</p>
 <br/>
+>Original Image:
 <br/>
-Original Image:
+<img src="./images/food.png" height="400">
 <br/>
-<img src="./images/food.png">
+>Segmented image by OpenCV implementation:
 <br/>
-Segmented image by OpenCV implementation:
+<img src="./images/segmented_image.png" height="400">
 <br/>
-<img src="./images/segmented_image.png">
-<br/>
-Colorband  0f the segmented image of the Sklearn implementation:
+>Colorband  0f the segmented image of the Sklearn implementation:
 <br/>
 <img src="./images/color_band.png">
