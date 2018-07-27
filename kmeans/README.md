@@ -10,14 +10,14 @@ python sk_kmeans.py
 ```
 <br/>
 <br/>
->Original Image:
+Original Image:
 <br/>
 <img src="./images/food.png" height="400">
 <br/>
->Segmented image by OpenCV implementation:
+Segmented image by OpenCV implementation:
 <br/>
 <img src="./images/segmented_image.png" height="400">
 <br/>
->Colorband  0f the segmented image of the Sklearn implementation:
+Colorband  0f the segmented image of the Sklearn implementation:
 <br/>
-<img src="./images/color_band.png">
+<img src="./images/color_band.png" width="400">
