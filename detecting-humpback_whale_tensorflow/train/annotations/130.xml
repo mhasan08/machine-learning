@@ -1,0 +1,23 @@
+<annotation>
+    <folder>train_data</folder>
+    <filename>130.jpg</filename>
+    <size>
+        <width>656</width>
+        <height>388</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>humpback</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>264</xmin>
+            <ymin>46</ymin>
+            <xmax>497</xmax>
+            <ymax>355</ymax>
+        </bndbox>
+    </object>
+</annotation>
