@@ -1,0 +1,23 @@
+<annotation>
+    <folder>test_data</folder>
+    <filename>156.jpg</filename>
+    <size>
+        <width>2036</width>
+        <height>1714</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>humpback</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1422</xmin>
+            <ymin>761</ymin>
+            <xmax>1666</xmax>
+            <ymax>976</ymax>
+        </bndbox>
+    </object>
+</annotation>
